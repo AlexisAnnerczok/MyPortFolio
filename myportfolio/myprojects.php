@@ -31,11 +31,11 @@
     <h1>MyCv</h1>
     <img src="img/image-3.png" alt="PortFolio" >
     <p>MyCv est un CV en ligne créé en HTML/CSS par Alexis Annerczok le 05/10/2022<p>
-    <img src="img/image-4.jpg" alt="Tower defense" >
     <h1>TowerDefense</h1>
+    <img src="img/image-4.jpg" alt="Tower defense" >
     <p>TowerDefense est jeu de type towerdefense créé en python par Alexis Annerczok en 2021<p>
-    <img src="img/image-5.png" alt="Pekomen" >
     <h1>Pekomen</h1>
+    <img src="img/image-5.png" alt="Pekomen" >
     <p>Pekomen est remake de pokemon créé en python par Alexis Annerczok en 2021<p>
 </div>
 
