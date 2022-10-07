@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="style_projects.css">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,6 +20,14 @@
 </div>
 <h1>My Projects<h1>
 </header>
+
+<div class="img">
+    <img src="img/image-1.png" alt="Worlde" >
+    <img src="img/image-2.png" alt="Zelda rpg" >
+    <img src="img/image-3.png" alt="PortFolio" >
+    <img src="img/image-4.jpg" alt="Tower defense" >
+    <img src="img/image-5.png" alt="Pekomon" >
+</div>
   
 </body>
 </html>

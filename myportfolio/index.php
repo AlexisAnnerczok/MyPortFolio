@@ -19,6 +19,7 @@
     </nav>
 </div>
 
+
 <div class="prenom">
   <p>Alexis Annerczok</p>
 </div>
@@ -52,7 +53,7 @@
         <div class="wgh-slider__container">
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
-              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-1.png" alt="The 5th Exotic"/>
+              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-1.png" alt="alexis"/>
                 <figcaption class="wgh-slider-item-figure__caption">Worlde</a><span>Alexis Annerczok</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-1" title="Show product 1"></label>
@@ -60,7 +61,7 @@
           </div>
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
-              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-2.png" alt="The 5th Exotic"/>
+              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-2.png" alt="alexis"/>
                 <figcaption class="wgh-slider-item-figure__caption">Zelda RPG</a><span>Alexis and Raphael</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-2" title="Show product 2"></label>
@@ -68,7 +69,7 @@
           </div>
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
-              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-3.png" alt="The 5th Exotic"/>
+              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-3.png" alt="alexis"/>
                 <figcaption class="wgh-slider-item-figure__caption">MyPortFolio</a><span>Alexis Annerczok</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-3" title="Show product 3"></label>
@@ -76,7 +77,7 @@
           </div>
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
-              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-4.jpg" alt="The 5th Exotic"/>
+              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-4.jpg" alt="alexis"/>
                 <figcaption class="wgh-slider-item-figure__caption">Tower defense</a><span>Alexis Annerczok</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-4" title="Show product 4"></label>
@@ -84,7 +85,7 @@
           </div>
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
-              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-5.png" alt="RYSY - Traveler LP"/>
+              <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-5.png" alt="alexis"/>
                 <figcaption class="wgh-slider-item-figure__caption">Pekomen</a><span>Alexis Annerczok</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-5" title="Show product 5"></label>
