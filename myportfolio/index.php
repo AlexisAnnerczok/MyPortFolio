@@ -54,7 +54,7 @@
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
               <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-1.png" alt="alexis"/>
-                <figcaption class="wgh-slider-item-figure__caption">Worlde</a><span>Alexis Annerczok</span></figcaption>
+                <figcaption class="wgh-slider-item-figure__caption">Wordle</a><span>Alexis Annerczok</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-1" title="Show product 1"></label>
             </div>
@@ -70,7 +70,7 @@
           <div class="wgh-slider-item">
             <div class="wgh-slider-item__inner">
               <figure class="wgh-slider-item-figure"><img class="wgh-slider-item-figure__image" src="img/image-3.png" alt="alexis"/>
-                <figcaption class="wgh-slider-item-figure__caption">MyPortFolio</a><span>Alexis Annerczok</span></figcaption>
+                <figcaption class="wgh-slider-item-figure__caption">MyCv</a><span>Alexis Annerczok</span></figcaption>
               </figure>
               <label class="wgh-slider-item__trigger" for="slide-3" title="Show product 3"></label>
             </div>
